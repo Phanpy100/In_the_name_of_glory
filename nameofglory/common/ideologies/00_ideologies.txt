@@ -336,7 +336,7 @@ ideologies = {
 		ai_neutral = yes # 
 	}
 
-	Paternal = {
+	paternal = {
 	
 		types = {
 			
